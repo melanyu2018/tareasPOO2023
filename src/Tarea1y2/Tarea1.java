@@ -29,7 +29,6 @@ public class Tarea1 {
 					}
 				}
 			}
-			
 			System.out.print("\n");
 			
 		}
